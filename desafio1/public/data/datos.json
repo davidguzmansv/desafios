@@ -1,114 +1,125 @@
 {
-  "fraudes_cripto": [
-    {
-      "titulo": "BitConnect",
-      "descripcion": "BitConnect era una plataforma de inversión en criptomonedas que prometía altas tasas de retorno mediante un esquema de préstamos. En realidad, era un esquema Ponzi.",
-      "caracteristicas": [
-        "Fecha: 2016-2018",
-        "Impacto: Pérdidas estimadas en miles de millones de dólares.",
-        "Modus operandi: Promesas de retornos garantizados, esquema Ponzi."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/3/31/BitConnect.svg"
-    },
-    {
-      "titulo": "OneCoin",
-      "descripcion": "OneCoin se promocionaba como una criptomoneda revolucionaria, pero en realidad era un esquema Ponzi que estafó a inversores en todo el mundo.",
-      "caracteristicas": [
-        "Fecha: 2014-2017",
-        "Impacto: Pérdidas estimadas en más de $4 mil millones.",
-        "Modus operandi: Esquema Ponzi, falta de blockchain real."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/b/b1/OneCoin_logo_on_their_office_door_in_Sofia%2C_Bulgaria.jpg"
-    },
-    {
-      "titulo": "PlusToken",
-      "descripcion": "PlusToken era una cartera y plataforma de inversión en criptomonedas que resultó ser un esquema Ponzi, atrayendo a millones de usuarios antes de colapsar.",
-      "caracteristicas": [
-        "Fecha: 2018-2019",
-        "Impacto: Pérdidas estimadas en $2 mil millones.",
-        "Modus operandi: Promesas de retornos altos, esquema Ponzi."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
-    },
-    {
-      "titulo": "WoToken",
-      "descripcion": "WoToken era una aplicación de criptomonedas similar a PlusToken que operaba como un esquema Ponzi, estafando a cientos de miles de usuarios.",
-      "caracteristicas": [
-        "Fecha: 2018-2020",
-        "Impacto: Pérdidas estimadas en $1 mil millones.",
-        "Modus operandi: Promesas de retornos garantizados, esquema Ponzi."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
-    },
-    {
-      "titulo": "MT.Gox",
-      "descripcion": "MT.Gox, una de las primeras y más grandes plataformas de intercambio de bitcoins, colapsó después de que se reportara la pérdida de 850,000 bitcoins.",
-      "caracteristicas": [
-        "Fecha: 2014",
-        "Impacto: Pérdidas estimadas en $450 millones en ese momento.",
-        "Modus operandi: Hackeo, mala gestión."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MtGox.png"
-    },
-    {
-      "titulo": "QuadrigaCX",
-      "descripcion": "QuadrigaCX fue una plataforma de intercambio de criptomonedas canadiense cuyo fundador murió súbitamente, llevándose consigo las claves privadas de las billeteras de los clientes.",
-      "caracteristicas": [
-        "Fecha: 2018-2019",
-        "Impacto: Pérdidas estimadas en $190 millones.",
-        "Modus operandi: Malas prácticas de seguridad, posible fraude."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/en/d/dd/Quadriga_Fintech_Solutions_logo.png"
-    },
-    {
-      "titulo": "BitClub Network",
-      "descripcion": "BitClub Network era una operación de minería de criptomonedas que se reveló como un esquema Ponzi, estafando a miles de inversionistas.",
-      "caracteristicas": [
-        "Fecha: 2014-2019",
-        "Impacto: Pérdidas estimadas en $722 millones.",
-        "Modus operandi: Esquema Ponzi, minería de criptomonedas."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
-    },
-    {
-      "titulo": "Centra Tech",
-      "descripcion": "Centra Tech prometía una tarjeta de débito respaldada por criptomonedas, pero se descubrió que era una estafa que engañó a inversionistas mediante una ICO fraudulenta.",
-      "caracteristicas": [
-        "Fecha: 2017-2018",
-        "Impacto: Pérdidas estimadas en $25 millones.",
-        "Modus operandi: ICO fraudulenta, promesas falsas."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"
-    },
-    {
-      "titulo": "FTX",
-      "descripcion": "FTX era una de las mayores plataformas de intercambio de criptomonedas, que colapsó en 2022 debido a prácticas financieras insostenibles y fraude.",
-      "caracteristicas": [
-        "Fecha: 2022",
-        "Impacto: Pérdidas estimadas en miles de millones de dólares.",
-        "Modus operandi: Uso indebido de fondos de clientes, fraude financiero."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/6/68/FTX_logo.svg"
-    },
-    {
-      "titulo": "Solana Phishing Scam",
-      "descripcion": "Una estafa de phishing dirigida a usuarios de Solana que comprometió las billeteras de miles de usuarios, robando millones de dólares en criptomonedas.",
-      "caracteristicas": [
-        "Fecha: 2022",
-        "Impacto: Pérdidas estimadas en $4.5 millones.",
-        "Modus operandi: Phishing, compromiso de claves privadas."
-      ],
-      "imagen_de_referencia": "https://upload.wikimedia.org/wikipedia/commons/3/38/Solana-sol-logo-horizontal.svg"
-    },
-    {
-      "titulo": "Terra/Luna",
-      "descripcion": "El colapso del ecosistema Terra/Luna fue uno de los mayores desastres en el espacio de las criptomonedas, con la caída abrupta del stablecoin UST y la criptomoneda Luna.",
-      "caracteristicas": [
-        "Fecha: 2022",
-        "Impacto: Pérdidas estimadas en decenas de miles de millones de dólares.",
-        "Modus operandi: Fallo en el algoritmo de stablecoin, retirada masiva de fondos."
-      ],
-      "imagen_de_referencia": "https://logowik.com/content/uploads/images/terra-luna5121.jpg"
-    }
-  ]
+    "descripcion": "Empresas más valiosas",
+    "empresas": [
+        {
+            "titulo": "Apple Inc.",
+            "descripcion": "Apple Inc. es una empresa estadounidense que diseña y produce equipos electronicos, software y servicios en linea.",
+            "caracteristicas": "Innovacion en tecnologia, marca reconocida mundialmente, productos de alta calidad.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg"
+        },
+        {
+            "titulo": "Microsoft Corporation",
+            "descripcion": "Microsoft Corporation es una empresa tecnologica multinacional con sede en Redmond, Washington.",
+            "caracteristicas": "Lider en software de productividad, sistemas operativos, servicios en la nube.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg"
+        },
+        {
+            "titulo": "Amazon.com, Inc.",
+            "descripcion": "Amazon.com, Inc. es una empresa estadounidense de comercio electronico y servicios de computacion en la nube.",
+            "caracteristicas": "Lider en comercio electronico, servicios en la nube, innovacion logistica.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        },
+        {
+            "titulo": "Alphabet Inc.",
+            "descripcion": "Alphabet Inc. es una empresa multinacional estadounidense conglomerada, matriz de Google.",
+            "caracteristicas": "Dominio en busquedas en linea, publicidad digital, inteligencia artificial.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Alphabet_Inc_Logo_2015.svg"
+        },
+        {
+            "titulo": "Facebook, Inc.",
+            "descripcion": "Facebook, Inc. es una empresa de tecnologia y redes sociales con sede en Menlo Park, California.",
+            "caracteristicas": "Lider en redes sociales, publicidad digital, innovacion en comunicacion.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
+        },
+        {
+            "titulo": "Tencent Holdings Ltd.",
+            "descripcion": "Tencent Holdings Ltd. es una empresa multinacional china de tecnologia y entretenimiento.",
+            "caracteristicas": "Lider en servicios de internet, videojuegos, redes sociales.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tencent_logo_2017.svg"
+        },
+        {
+            "titulo": "Alibaba Group Holding Limited",
+            "descripcion": "Alibaba Group es una empresa china de comercio electronico y tecnologia.",
+            "caracteristicas": "Lider en comercio electronico, servicios en la nube, pagos en linea.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/8/80/Alibaba-Group-Logo.svg"
+        },
+        {
+            "titulo": "Berkshire Hathaway Inc.",
+            "descripcion": "Berkshire Hathaway Inc. es un holding multinacional estadounidense con sede en Omaha, Nebraska.",
+            "caracteristicas": "Diversificacion en inversiones, liderazgo en seguros, gestion financiera.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Berkshire-Hathaway-Logo.svg"
+        },
+        {
+            "titulo": "Tesla, Inc.",
+            "descripcion": "Tesla, Inc. es una empresa estadounidense que diseña y fabrica coches electricos, baterias y productos de energia solar.",
+            "caracteristicas": "Innovacion en vehiculos electricos, energias renovables, liderazgo en tecnologia.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png"
+        },
+        {
+            "titulo": "Visa Inc.",
+            "descripcion": "Visa Inc. es una empresa estadounidense de servicios financieros con sede en Foster City, California.",
+            "caracteristicas": "Lider en pagos electronicos, innovacion en servicios financieros, amplia red global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg"
+        },
+        {
+            "titulo": "Johnson & Johnson",
+            "descripcion": "Johnson & Johnson es una corporacion multinacional estadounidense de dispositivos medicos, productos farmaceuticos y de consumo.",
+            "caracteristicas": "Innovacion en productos de salud, lider en dispositivos medicos, fuerte presencia global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/be/JNJ_Logo_New.svg"
+        },
+        {
+            "titulo": "Walmart Inc.",
+            "descripcion": "Walmart Inc. es una corporacion multinacional estadounidense de tiendas de descuento y almacenes.",
+            "caracteristicas": "Lider en comercio minorista, precios competitivos, amplia red de tiendas.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg"
+        },
+        {
+            "titulo": "Samsung Electronics Co., Ltd.",
+            "descripcion": "Samsung Electronics Co., Ltd. es una empresa multinacional surcoreana de tecnologia.",
+            "caracteristicas": "Innovacion en electronica de consumo, liderazgo en tecnologia de semiconductores, amplia gama de productos.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg"
+        },
+        {
+            "titulo": "Nestle S.A.",
+            "descripcion": "Nestle S.A. es una multinacional suiza de alimentos y bebidas.",
+            "caracteristicas": "Lider en la industria alimentaria, amplia gama de productos, fuerte presencia global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nestl%C3%A9_textlogo.svg"
+        },
+        {
+            "titulo": "Procter & Gamble Co.",
+            "descripcion": "Procter & Gamble Co. es una multinacional estadounidense de bienes de consumo.",
+            "caracteristicas": "Innovacion en productos de consumo, marcas reconocidas, amplia gama de productos.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/85/Procter_%26_Gamble_logo.svg"
+        },
+        {
+            "titulo": "Roche Holding AG",
+            "descripcion": "Roche Holding AG es una empresa suiza de atencion sanitaria y biotecnologia.",
+            "caracteristicas": "Lider en productos farmaceuticos, innovacion en biotecnologia, fuerte presencia global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hoffmann-La_Roche_logo.svg"
+        },
+        {
+            "titulo": "L'Oreal S.A.",
+            "descripcion": "L'Oreal S.A. es una empresa francesa de cosmeticos y belleza.",
+            "caracteristicas": "Lider en productos de belleza, innovacion en cosmeticos, marcas reconocidas.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg"
+        },
+        {
+            "titulo": "Coca-Cola Company",
+            "descripcion": "The Coca-Cola Company es una multinacional estadounidense de bebidas.",
+            "caracteristicas": "Lider en bebidas no alcoholicas, marca globalmente reconocida, innovacion en productos.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg"
+        },
+        {
+            "titulo": "PepsiCo, Inc.",
+            "descripcion": "PepsiCo, Inc. es una multinacional estadounidense de alimentos, aperitivos y bebidas.",
+            "caracteristicas": "Lider en alimentos y bebidas, marcas reconocidas, fuerte presencia global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PepsiCo_logo.svg"
+        },
+        {
+            "titulo": "Toyota Motor Corporation",
+            "descripcion": "Toyota Motor Corporation es una multinacional japonesa de automoviles.",
+            "caracteristicas": "Lider en fabricacion de automoviles, innovacion en vehiculos hibridos, amplia red global.",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toyota.svg"
+        }
+    ]
 }

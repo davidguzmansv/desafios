@@ -1,26 +1,20 @@
 "use client"
 import React, { useState, useEffect } from 'react';
 import styles from './viewer.module.css';
+import jsonData from '/public/data/datos.json'; 
 
 const JsonData = () => {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch('data/datos.json'); // Ajusta la ruta al archivo JSON
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const result = await response.json();
-        setData(result);
-      } catch (error) {
-        setError(error.message);
-      }
-    };
-
-    fetchData();
+    // Simula la obtención de datos como si fuera una solicitud fetch
+    try {
+      const result = jsonData;
+      setData(result);
+    } catch (error) {
+      setError('Failed to load data');
+    }
   }, []);
 
   const renderCharacteristics = (caracteristicas) => {
