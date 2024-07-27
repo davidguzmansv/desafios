@@ -46,7 +46,6 @@ const JsonData = () => {
     }
 
     return items.map((item, index) => {
-      // Find the image key dynamically
       const imageKey = Object.keys(item).find(key => key.toLowerCase().includes('imagen'));
       return (
         <div key={index} className={styles.item}>
@@ -84,7 +83,6 @@ const JsonData = () => {
     return <div>Loading...</div>;
   }
 
-  // Find the main array in the data
   const mainArray = Object.values(data).find(value => Array.isArray(value));
 
   if (!Array.isArray(mainArray)) {
